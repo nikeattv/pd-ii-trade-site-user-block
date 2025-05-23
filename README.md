@@ -20,3 +20,14 @@ This extension lets you hide listings from users you want to block.
 - Go to chrome://extensions
 - Toggle on Developer Mode
 - Click on "Load unpacked" and look up the "src" folder in the extracted folder.
+
+## Usage
+- Click on the little puzzle piece icon (extensions/add-ons)
+- Select the extension
+- Type on the users' names, separate them with a comma: user1,user2
+- Click Submit
+- Refresh the page
+- Browse freely without worrying about bad apples.
+
+## Data Storage
+The browser should store the usernames in their local storage, so you don't have to worry about it.

@@ -6,7 +6,13 @@ This extension lets you hide listings from users you want to block.
 - Mozilla Firefox (latest at the date of upload: v138.0.4 64-bit)
 
 ## Install on Mozilla Firefox
-Go to the [extension's page](https://addons.mozilla.org/en-GB/firefox/addon/pd-ii-trade-site-user-block/) and install from there.
+- Go to the [extension's page](https://addons.mozilla.org/en-GB/firefox/addon/pd-ii-trade-site-user-block/) and install from there.
+- OR
+- Download the source code from GitHub. Clone if you know git, but otherwise the zip is enough. Extract the zip to a folder on your PC.
+- Open Mozilla Firefox
+- Go to about:debugging
+- Click on "This Firefox"
+- Click on "Load Temporary Add-on..." and look up the "src" folder in the extracted folder and select manifest.json.
 
 ## Install on Google Chrome
 - Download the source code from GitHub. Clone if you know git, but otherwise the zip is enough. Extract the zip to a folder on your PC.
